@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="2" version="2.1" version_name="Godot Engine v2.1.stable.official">
+	<ext_resource path="res://Assets/DialogCounter.gd" type="Script" index="0"></ext_resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "conn_count" </string>
+			<int> 2 </int>
+			<string> "conns" </string>
+			<int_array  len="12"> 				2, 0, 42, 41, 2, 0, 3, 0, 44, 43, 2, 0 </int_array>
+			<string> "editable_instances" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "names" </string>
+			<string_array  len="45">
+				<string> "DialogCounter" </string>
+				<string> "anchor/right" </string>
+				<string> "anchor/bottom" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "margin/left" </string>
+				<string> "margin/top" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "script/script" </string>
+				<string> "Control" </string>
+				<string> "Dialog" </string>
+				<string> "popup/exclusive" </string>
+				<string> "window/title" </string>
+				<string> "WindowDialog" </string>
+				<string> "Slider" </string>
+				<string> "range/min" </string>
+				<string> "range/max" </string>
+				<string> "range/step" </string>
+				<string> "range/page" </string>
+				<string> "range/value" </string>
+				<string> "range/exp_edit" </string>
+				<string> "range/rounded" </string>
+				<string> "tick_count" </string>
+				<string> "ticks_on_borders" </string>
+				<string> "focus_mode" </string>
+				<string> "HSlider" </string>
+				<string> "Button" </string>
+				<string> "toggle_mode" </string>
+				<string> "enabled_focus_mode" </string>
+				<string> "shortcut" </string>
+				<string> "text" </string>
+				<string> "flat" </string>
+				<string> "Text" </string>
+				<string> "percent_visible" </string>
+				<string> "lines_skipped" </string>
+				<string> "max_lines_visible" </string>
+				<string> "Label" </string>
+				<string> "Number" </string>
+				<string> "_on_Slider_value_changed" </string>
+				<string> "value_changed" </string>
+				<string> "_on_Button_pressed" </string>
+				<string> "pressed" </string>
+			</string_array>
+			<string> "node_count" </string>
+			<int> 6 </int>
+			<string> "node_paths" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="194"> 				-1, -1, 12, 0, -1, 11, 1, 0, 2, 0, 3, 1, 4, 2, 5, 3, 6, 3, 7, 4, 8, 4, 9, 5, 10, 6, 11, 7, 0, 0, 0, 16, 13, -1, 10, 3, 1, 4, 2, 5, 3, 6, 3, 7, 8, 8, 9, 9, 10, 10, 11, 14, 1, 15, 12, 0, 1, 0, 28, 17, -1, 18, 3, 1, 4, 2, 5, 3, 6, 13, 7, 14, 8, 15, 9, 16, 10, 17, 18, 4, 19, 18, 20, 19, 21, 4, 22, 19, 23, 2, 24, 2, 25, 13, 26, 1, 27, 3, 0, 1, 0, 29, 29, -1, 13, 3, 1, 4, 2, 5, 3, 6, 3, 7, 20, 8, 21, 9, 22, 10, 23, 30, 1, 31, 3, 32, 24, 33, 25, 34, 1, 0, 1, 0, 39, 35, -1, 12, 3, 2, 4, 2, 5, 3, 6, 13, 7, 26, 8, 27, 9, 8, 10, 28, 33, 29, 36, 19, 37, 13, 38, 30, 0, 1, 0, 39, 40, -1, 12, 3, 2, 4, 2, 5, 3, 6, 13, 7, 26, 8, 31, 9, 8, 10, 32, 33, 29, 36, 19, 37, 13, 38, 30, 0 </int_array>
+			<string> "variants" </string>
+			<array  len="33" shared="false">
+				<int> 1 </int>
+				<bool> False </bool>
+				<bool> True </bool>
+				<int> 2 </int>
+				<real> 0 </real>
+				<real> 765 </real>
+				<real> 1020 </real>
+				<resource  external="0">  </resource>
+				<real> 126 </real>
+				<real> 125 </real>
+				<real> 635 </real>
+				<real> 477 </real>
+				<string> "" </string>
+				<int> 0 </int>
+				<real> 23 </real>
+				<real> 179 </real>
+				<real> 483 </real>
+				<real> 195 </real>
+				<real> 100 </real>
+				<real> 1 </real>
+				<real> 158 </real>
+				<real> 288 </real>
+				<real> 316 </real>
+				<real> 308 </real>
+				<resource name=""></resource>				<string> "Ok" </string>
+				<real> 41 </real>
+				<real> 26 </real>
+				<real> 40 </real>
+				<string> "How many X?" </string>
+				<int> -1 </int>
+				<real> 114 </real>
+				<real> 128 </real>
+			</array>
+			<string> "version" </string>
+			<int> 2 </int>
+		</dictionary>
+
+	</main_resource>
+</resource_file>

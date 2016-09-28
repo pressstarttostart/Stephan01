@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="5" version="2.1" version_name="Godot Engine v2.1.stable.official">
+	<ext_resource path="res://Root.gd" type="Script" index="0"></ext_resource>
+	<ext_resource path="res://Assets/images/intro.png" type="Texture" index="3"></ext_resource>
+	<ext_resource path="res://Assets/theme/theme.thm" type="Theme" index="2"></ext_resource>
+	<ext_resource path="res://Assets/LevelChoice.xml" type="PackedScene" index="1"></ext_resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "conn_count" </string>
+			<int> 4 </int>
+			<string> "conns" </string>
+			<int_array  len="24"> 				2, 0, 53, 52, 2, 0, 6, 0, 55, 54, 2, 0, 8, 0, 55, 56, 2, 0, 9, 0, 55, 57, 2, 0 </int_array>
+			<string> "editable_instances" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "names" </string>
+			<string_array  len="58">
+				<string> "Root" </string>
+				<string> "script/script" </string>
+				<string> "Node" </string>
+				<string> "Scenes" </string>
+				<string> "anchor/right" </string>
+				<string> "anchor/bottom" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "margin/left" </string>
+				<string> "margin/top" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "Control" </string>
+				<string> "Choice" </string>
+				<string> "Loading" </string>
+				<string> "editor/display_folded" </string>
+				<string> "Node2D" </string>
+				<string> "Animation" </string>
+				<string> "playback/process_mode" </string>
+				<string> "playback/default_blend_time" </string>
+				<string> "root/root" </string>
+				<string> "playback/active" </string>
+				<string> "playback/speed" </string>
+				<string> "blend_times" </string>
+				<string> "autoplay" </string>
+				<string> "AnimationPlayer" </string>
+				<string> "Progress" </string>
+				<string> "range/min" </string>
+				<string> "range/max" </string>
+				<string> "range/step" </string>
+				<string> "range/page" </string>
+				<string> "range/value" </string>
+				<string> "range/exp_edit" </string>
+				<string> "range/rounded" </string>
+				<string> "percent/visible" </string>
+				<string> "ProgressBar" </string>
+				<string> "Back_btn" </string>
+				<string> "theme/theme" </string>
+				<string> "toggle_mode" </string>
+				<string> "enabled_focus_mode" </string>
+				<string> "shortcut" </string>
+				<string> "text" </string>
+				<string> "flat" </string>
+				<string> "Button" </string>
+				<string> "Main" </string>
+				<string> "texture" </string>
+				<string> "centered" </string>
+				<string> "Sprite" </string>
+				<string> "visibility/opacity" </string>
+				<string> "Close_Button" </string>
+				<string> "_on_Choice_on_selected" </string>
+				<string> "on_selected" </string>
+				<string> "_on_Back_btn_pressed" </string>
+				<string> "pressed" </string>
+				<string> "_on_Button_pressed" </string>
+				<string> "_on_Close_Button_pressed" </string>
+			</string_array>
+			<string> "node_count" </string>
+			<int> 10 </int>
+			<string> "node_paths" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="226"> 				-1, -1, 2, 0, -1, 1, 1, 0, 0, 0, 0, 14, 3, -1, 10, 4, 1, 5, 1, 6, 2, 7, 3, 8, 4, 9, 4, 10, 5, 11, 5, 12, 6, 13, 7, 0, 0, 0, 2147483647, 15, 8, 0, 0, 0, 0, 18, 16, -1, 1, 17, 3, 0, 3, 0, 27, 19, -1, 7, 20, 1, 21, 5, 22, 9, 23, 3, 24, 10, 25, 11, 26, 12, 0, 3, 0, 37, 28, -1, 16, 6, 2, 7, 3, 8, 4, 9, 13, 10, 5, 11, 5, 12, 14, 13, 14, 29, 5, 30, 15, 31, 10, 32, 5, 33, 10, 34, 2, 35, 2, 36, 3, 0, 0, 0, 45, 38, -1, 14, 6, 2, 7, 3, 8, 4, 9, 4, 39, 16, 10, 5, 11, 5, 12, 17, 13, 18, 40, 2, 41, 4, 42, 19, 43, 20, 44, 2, 0, 0, 0, 49, 46, -1, 3, 17, 3, 47, 21, 48, 2, 0, 7, 0, 45, 45, -1, 13, 50, 5, 6, 2, 7, 3, 8, 4, 9, 4, 10, 22, 11, 23, 12, 24, 13, 25, 40, 2, 41, 4, 42, 19, 44, 2, 0, 0, 0, 45, 51, -1, 13, 6, 2, 7, 3, 8, 4, 9, 4, 10, 26, 11, 27, 12, 28, 13, 29, 40, 2, 41, 4, 42, 19, 43, 30, 44, 2, 0 </int_array>
+			<string> "variants" </string>
+			<array  len="31" shared="false">
+				<resource  external="0">  </resource>
+				<int> 1 </int>
+				<bool> False </bool>
+				<bool> True </bool>
+				<int> 2 </int>
+				<real> 0 </real>
+				<real> 984 </real>
+				<real> 560 </real>
+				<resource  external="1">  </resource>
+				<node_path> ".." </node_path>
+				<real> 1 </real>
+				<array  len="0" shared="false">
+				</array>
+				<string> "" </string>
+				<int> 0 </int>
+				<real> 16 </real>
+				<real> 100 </real>
+				<resource  external="2">  </resource>
+				<real> 12 </real>
+				<real> 20 </real>
+				<resource name=""></resource>				<string> "back" </string>
+				<resource  external="3">  </resource>
+				<real> 69 </real>
+				<real> 226 </real>
+				<real> 197 </real>
+				<real> 328 </real>
+				<real> 981 </real>
+				<real> 3 </real>
+				<real> 1021 </real>
+				<real> 28 </real>
+				<string> "X" </string>
+			</array>
+			<string> "version" </string>
+			<int> 2 </int>
+		</dictionary>
+
+	</main_resource>
+</resource_file>
