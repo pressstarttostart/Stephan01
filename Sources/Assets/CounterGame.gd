@@ -89,10 +89,6 @@ func victory_achieved():
 	timer.connect("timeout", self, "play_animation")
 	timer.start()
 	add_child(timer)
-	
-func _on_Dialog_ok_pressed(num,desired_num):
-	if num == desired_num:
-		victory_achieved()
 
 func elements_left_to_click_change(inc):
 	current_selected_number = current_selected_number + inc
